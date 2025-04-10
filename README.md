@@ -48,10 +48,6 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kannan0909/Kannan0909/output/snake.svg" alt="Snake animation" />
 
 ###
